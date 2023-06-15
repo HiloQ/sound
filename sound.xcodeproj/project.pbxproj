@@ -14,6 +14,8 @@
 		8CC38DD62A3B6D76002750FB /* sound.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 8CC38DD42A3B6D76002750FB /* sound.xcdatamodeld */; };
 		8CC38DD82A3B6D77002750FB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8CC38DD72A3B6D77002750FB /* Assets.xcassets */; };
 		8CC38DDB2A3B6D77002750FB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8CC38DD92A3B6D77002750FB /* LaunchScreen.storyboard */; };
+		8CC38DE32A3B6EDB002750FB /* obraz.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8CC38DE22A3B6EDB002750FB /* obraz.jpg */; };
+		8CC38DE52A3B7408002750FB /* dzwiek.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8CC38DE42A3B7408002750FB /* dzwiek.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		8CC38DD72A3B6D77002750FB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8CC38DDA2A3B6D77002750FB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8CC38DDC2A3B6D77002750FB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8CC38DE22A3B6EDB002750FB /* obraz.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = obraz.jpg; sourceTree = "<group>"; };
+		8CC38DE42A3B7408002750FB /* dzwiek.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = dzwiek.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,7 +65,9 @@
 				8CC38DCB2A3B6D76002750FB /* AppDelegate.swift */,
 				8CC38DCD2A3B6D76002750FB /* SceneDelegate.swift */,
 				8CC38DCF2A3B6D76002750FB /* ViewController.swift */,
+				8CC38DE42A3B7408002750FB /* dzwiek.mp3 */,
 				8CC38DD12A3B6D76002750FB /* Main.storyboard */,
+				8CC38DE22A3B6EDB002750FB /* obraz.jpg */,
 				8CC38DD72A3B6D77002750FB /* Assets.xcassets */,
 				8CC38DD92A3B6D77002750FB /* LaunchScreen.storyboard */,
 				8CC38DDC2A3B6D77002750FB /* Info.plist */,
@@ -130,7 +136,9 @@
 			files = (
 				8CC38DDB2A3B6D77002750FB /* LaunchScreen.storyboard in Resources */,
 				8CC38DD82A3B6D77002750FB /* Assets.xcassets in Resources */,
+				8CC38DE32A3B6EDB002750FB /* obraz.jpg in Resources */,
 				8CC38DD32A3B6D76002750FB /* Main.storyboard in Resources */,
+				8CC38DE52A3B7408002750FB /* dzwiek.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
